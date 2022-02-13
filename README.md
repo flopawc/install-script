@@ -1,1 +1,1 @@
-# install script
+# Basic script in shell, work in progress.
